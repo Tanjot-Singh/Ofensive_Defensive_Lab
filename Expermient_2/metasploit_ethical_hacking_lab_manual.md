@@ -270,28 +270,5 @@ The vulnerable Metasploitable virtual machine was tested using the Metasploit Fr
 
 ---
 
-## Viva Questions
-
-### Q1. What is Metasploit?
-
-Metasploit is a penetration-testing framework used to discover and validate vulnerabilities.
-
-### Q2. What is an exploit?
-
-An exploit is a technique or code that takes advantage of a vulnerability in a system or application.
-
-### Q3. What is a payload?
-
-A payload is code delivered or executed after an exploit succeeds.
-
-### Q4. What is `RHOSTS`?
-
-`RHOSTS` specifies the remote target host or hosts against which the module operates.
-
-### Q5. Why is Metasploitable used in this experiment?
-
 Metasploitable is intentionally designed with known vulnerabilities, making it suitable for safe penetration-testing practice.
 
-### Q6. What is the difference between vulnerability scanning and exploitation?
-
-Scanning identifies potential weaknesses, while exploitation attempts to demonstrate whether a particular weakness can actually be used.
