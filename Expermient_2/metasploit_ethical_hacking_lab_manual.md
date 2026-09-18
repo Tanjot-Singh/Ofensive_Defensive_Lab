@@ -116,7 +116,7 @@ You should find an exploit corresponding to:
 ```text
 vsftpd 2.3.4 Backdoor
 ```
-
+![Step 3 screenshot](outputs/4.jpeg)
 ---
 
 ## 6. Select the Exploit
