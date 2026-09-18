@@ -80,7 +80,7 @@ You may see services such as:
 139/tcp  netbios-ssn
 445/tcp  microsoft-ds
 ```
-
+![Step 3 screenshot](outputs/3.jpeg)
 **Observation:** The scan provides information that can be used to identify potentially vulnerable services.
 
 ---
