@@ -12,7 +12,7 @@ Start the pfSense virtual machine and verify the WAN and LAN interface IP addres
 
 **Screenshot:**
 
-![Step 1: Configure the pfSense Network](images/ss1.png)
+![Step 1: Configure the pfSense Network](ss1.png)
 
 ### Step 2: Verify Network Connectivity and Identify the Target
 
@@ -28,7 +28,7 @@ nmap <Target-IP>
 
 **Screenshot:**
 
-![Step 2: Verify Network Connectivity](images/ss2.png)
+![Step 2: Verify Network Connectivity](ss2.png)
 
 ### Step 3: Configure Firewall Rules in pfSense
 
@@ -36,7 +36,7 @@ Log in to the pfSense web interface and navigate to **Firewall → Rules → LAN
 
 **Screenshot:**
 
-![Step 3: Configure Firewall Rules](images/ss3.png)
+![Step 3: Configure Firewall Rules](ss3.png)
 
 ### Step 4: Enable Snort on the LAN Interface
 
@@ -44,7 +44,7 @@ Open **Services → Snort → Interfaces** in pfSense. Configure Snort on the LA
 
 **Screenshot:**
 
-![Step 4: Enable Snort on the LAN Interface](images/ss4.png)
+![Step 4: Enable Snort on the LAN Interface](ss4.png)
 
 ### Step 5: Generate Network Traffic and Check Detection
 
@@ -59,7 +59,7 @@ ping <Target-IP>
 
 **Screenshot:**
 
-![Step 5: Generate Network Traffic](images/ss5.png)
+![Step 5: Generate Network Traffic](ss5.png)
 
 ### Step 6: Examine Snort Alerts
 
@@ -67,7 +67,7 @@ Navigate to **Services → Snort → Alerts** in pfSense. Review the alert log t
 
 **Screenshot:**
 
-![Step 6: Examine Snort Alerts](images/ss6.png)
+![Step 6: Examine Snort Alerts](ss6.png)
 
 ## Result
 
