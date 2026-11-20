@@ -98,17 +98,6 @@ chmod +x gophish
    - Data submitted
 2. Export the results as a report (CSV/PDF) from the dashboard.
 
-## Observations
-Record the following in a results table:
-
-| Metric | Count | Percentage |
-|--------|-------|------------|
-| Emails Sent | | |
-| Emails Opened | | |
-| Links Clicked | | |
-| Credentials Submitted | | |
-| Emails Reported (if applicable) | | |
-
 ## Analysis
 - Identify which pretext/template had the highest click rate.
 - Discuss why certain users may have fallen for the simulated attack (urgency, authority, curiosity).
